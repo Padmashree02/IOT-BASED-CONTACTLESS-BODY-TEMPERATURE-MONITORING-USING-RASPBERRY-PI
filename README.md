@@ -9,11 +9,15 @@ Interface an IR temperature sensor and if the temperature of any particular pers
 
 **Components used**
 
-Raspberry Pi
-MLX90614 IR temperature sensor.
-Pi camera.
-Power supply
-Connecting Wires
+- Raspberry Pi
+
+- MLX90614 IR temperature sensor.
+
+- Pi camera.
+
+- Power supply
+
+- Connecting Wires
 
 **Application**
 
